@@ -44,11 +44,6 @@ This project presents a comprehensive analysis of crime trends in the state of *
 
 ---
 
-## 📌 Project Purpose
-
-This project was submitted for a second-round assessment for a **Data Analyst position** at a company focusing on public data and socio-political insights. It is also meant to demonstrate practical use of data tools in solving real-world problems.
-
----
 
 ## 🙋‍♂️ Author
 
